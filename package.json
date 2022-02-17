@@ -1,0 +1,23 @@
+{
+  "name": "sqlbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mysql",
+    "sql",
+    "builder"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "sqlstring": "^2.3.2"
+  }
+}
